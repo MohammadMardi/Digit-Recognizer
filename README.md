@@ -2,15 +2,6 @@
 
 This project demonstrates the use of various machine learning algorithms to recognize handwritten digits using the [sklearn.datasets.load_digits](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html) dataset. We have implemented and compared the performance of three different algorithms: SVM (Support Vector Machine), ANN (Artificial Neural Network), and Random Forest.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Algorithms](#algorithms)
-  - [SVM](#svm)
-  - [ANN](#ann)
-  - [Random Forest](#random-forest)
-- [Results](#results)
-- [License](#license)
 
 ## Introduction
 This project aims to explore and compare different machine learning algorithms for the task of digit recognition. The `load_digits` dataset from `sklearn.datasets` is used for training and testing the models. Each algorithm is evaluated based on its accuracy and performance metrics.
