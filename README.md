@@ -21,6 +21,12 @@ Random Forest is an ensemble learning method that operates by constructing multi
 
 ## Results
 The performance of each algorithm was evaluated using accuracy as the primary metric. Below are the accuracy scores for each algorithm:
-- **SVM:** 98.9%
-- **ANN:** 97.8%
-- **Random Forest:** 96.7%
+- **Accuracy:**
+  ![Cancer Detection](https://github.com/MohammadMardi/DigitsDetection/blob/main/TrainAcuracy.png)
+  ![Cancer Detection](https://github.com/MohammadMardi/DigitsDetection/blob/main/TestAcuracy.png)
+
+- **Precision:**
+- ![Cancer Detection](https://github.com/MohammadMardi/DigitsDetection/blob/main/Precision.png)
+
+- **Recall:** 
+![Cancer Detection](https://github.com/MohammadMardi/DigitsDetection/blob/main/Recall.png)
