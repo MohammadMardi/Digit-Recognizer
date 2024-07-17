@@ -9,6 +9,9 @@ This project aims to explore and compare different machine learning algorithms f
 ## Dataset
 The `load_digits` dataset contains 1797 samples of handwritten digits (0-9). Each sample is an 8x8 image that represents a digit.
 
+![Digit](https://github.com/MohammadMardi/DigitRecognizer/blob/main/sklearn-datasets-load_digits-1_01.png)
+
+
 ## Algorithms
 ### SVM
 Support Vector Machines (SVM) are powerful and versatile classifiers, capable of performing both linear and non-linear classification. In this project, we used the `SVC` class from `sklearn.svm`.
@@ -23,16 +26,16 @@ Random Forest is an ensemble learning method that operates by constructing multi
 The performance of each algorithm was evaluated using accuracy as the primary metric. Below are the accuracy scores for each algorithm:
 - **Accuracy:**
 - 
-  ![Cancer Detection](https://github.com/MohammadMardi/DigitsDetection/blob/main/Train%20Accuracy.png)
+  ![Digit](https://github.com/MohammadMardi/DigitsDetection/blob/main/Train%20Accuracy.png)
 
-  ![Cancer Detection](https://github.com/MohammadMardi/DigitsDetection/blob/main/Test%20Accuracy.png)
+  ![Digit](https://github.com/MohammadMardi/DigitsDetection/blob/main/Test%20Accuracy.png)
 
 
 - **Precision:**
   
-  ![Cancer Detection](https://github.com/MohammadMardi/DigitsDetection/blob/main/Precision.png)
+  ![Digit](https://github.com/MohammadMardi/DigitsDetection/blob/main/Precision.png)
 
 - **Recall:**
 
   
-![Cancer Detection](https://github.com/MohammadMardi/DigitsDetection/blob/main/Recall.png)
+![Digit](https://github.com/MohammadMardi/DigitsDetection/blob/main/Recall.png)
